@@ -1,0 +1,4 @@
+DESCRIBE Student;
+DESCRIBE Faculty;
+DESCRIBE Course;
+DESCRIBE Exam;

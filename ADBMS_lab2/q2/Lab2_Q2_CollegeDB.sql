@@ -1,0 +1,5 @@
+DELETE FROM Exam
+WHERE ExamID = 512;
+
+SELECT * FROM Exam
+WHERE ExamID = 512;
